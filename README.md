@@ -40,3 +40,12 @@ def swap_bookends(items):
     first, *middle, last = items
     return last, *middle, first
 ```
+README FILE VERSION HISTORY
+August 25, 2026 - Uploaded the Finished version of the Code
+
+August 25, 2026 - Started with the README file
+
+August 26, 2026 - Finished the README file
+
+August 27, 2026 - Added the README FILE VERSION HISTORY
+
